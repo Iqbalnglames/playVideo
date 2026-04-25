@@ -283,6 +283,16 @@ php artisan serve
 # Terminal 2: Watch dan compile assets (Vite)
 npm run dev
 ```
+## Akun demo
+jika anda telah menjalankan main seedernya, maka akan ada 2 akun demo untuk login, dengan 2 role yang berbeda, yaitu Admin dan Customer
+
+### Admin
+username: admin
+password: password
+
+### Customer
+username: customer
+password: password
 
 ## Struktur Project
 
