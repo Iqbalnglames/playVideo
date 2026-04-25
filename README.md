@@ -31,8 +31,8 @@ Aplikasi backend Laravel untuk mengelola akses video dengan sistem role-based ac
 
 ### Framework & Libraries
 - **Laravel**: v10.0
-- **Laravel Sanctum**: v3.2 (API Authentication)
 - **Laravel Tinker**: v2.8 (Interactive shell)
+- **Tailwind CSS**: v4.2 (css framework)
 
 ## Instalasi
 
